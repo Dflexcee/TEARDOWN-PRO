@@ -9,7 +9,8 @@ body {
   color: black;
 }
 
-.header, .nav,
+.header,
+ .nav,
 .ul1 {
   display: flex;
   padding: 0;
@@ -171,11 +172,11 @@ h2 {
   order: 3;
 }
 
-.rv1 {
+.rv2 {
   order: 2;
 }
 
-.rv1 {
+.rv3 {
   order: 1;
 }
 
