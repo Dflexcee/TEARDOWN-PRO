@@ -1,5 +1,5 @@
 # Project Title
-#### NEW-YORK-TIME-CLONE
+#### MY TEARDOWN CLONE PAGE
 
 ### Authors:
 [FLEXCEE](https://github.com/Dflexcee/)  Please for now i do not have a partiner, 
@@ -10,10 +10,10 @@ my project while i wait for new partner
 ## Live Project:
 
 ### Link to the Assignment:
-[CLICK HERE](https://www.theodinproject.com/courses/html5-and-css3/lessons/positioning-and-floating-elements)
+[CLICK HERE](https://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown)
 
 ### LIVE SCREENSHOT OF MY PROJECT
 
-![2](https://user-images.githubusercontent.com/53564831/68097642-1775d780-fe6d-11e9-990b-fd12dee0167b.jpg)
+![QQ](https://user-images.githubusercontent.com/53564831/68436379-b56de880-0172-11ea-8f96-3bd34a7f3a23.jpg)
 
 
