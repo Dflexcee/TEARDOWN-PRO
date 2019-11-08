@@ -272,7 +272,7 @@ h2 {
   display: flex;
   flex-flow: column;
   font-size: 20px;
-  background-color: linear-gradient(#000, rgba(83, 80, 80, 0.575));
+  background: linear-gradient(#000, rgba(83, 80, 80, 0.575));
 }
 
 .big-log-div990 {
@@ -296,14 +296,11 @@ h2 {
   justify-content: center;
 }
 
-.ul776 li {
+.ul776 a {
   color: white;
   display: flex;
   justify-content: space-around;
-}
-
-.ul776 a {
-  padding: 1rem;
+  padding: 1rem 2rem;
   text-decoration: none;
 }
 
